@@ -1,2 +1,0 @@
-print("Hola mundo => Cesar Lecca ==> G3")
-print("Hola mundo => new Cesar Lecca ==> G3")
